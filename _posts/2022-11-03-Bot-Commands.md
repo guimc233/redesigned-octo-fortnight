@@ -3,6 +3,12 @@ layout: post
 title: 机器人命令~
 ---
 
+> 此处为一些常用功能 部分质量可能没有覆盖到
+{: .prompt-tip }
+
+> 本篇博客图片较多 流量党情注意流量消耗
+{: .prompt-warning }
+
 <details>
 	<summary>网络查询 (限制权限)</summary>
 	<pre>
