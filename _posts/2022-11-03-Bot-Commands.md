@@ -10,20 +10,20 @@ title: 机器人命令~
 {: .prompt-warning }
 
 <details>
-	<summary>网络查询 (限制权限)</summary>
-	<pre>
-		<code>
-		- /tracert &lt;目标名称&gt;	# 路由追踪
-		- /ping &lt;目标名称&gt; [ping次数] [超时时间(毫秒)]	# Ping连接测试
-		- /dns &lt;记录名称&gt; [记录类型] [自定义DNS]	# dns查询
-		- /web &lt;URL链接&gt; [编码]	# 网页测试
-		- /nmap &lt;目标名称&gt;	# 端口扫描
-		- /nmap &lt;目标名称&gt; &lt;起始端口&gt; &lt;结束端口&gt;	# 端口扫描
-		- /nmap &lt;目标名称&gt; &lt;端口&gt;	# 端口扫描
-		- /doh &lt;域名&gt; [类型]	# HTTPS加密DNS查询
-		- /gc &lt;目标名称&gt;	# 查墙
-		</code>
-	</pre>
+<summary>网络查询 (限制权限)</summary>
+<pre>
+<code>
+- /tracert &lt;目标名称&gt;	# 路由追踪
+- /ping &lt;目标名称&gt; [ping次数] [超时时间(毫秒)]	# Ping连接测试
+- /dns &lt;记录名称&gt; [记录类型] [自定义DNS]	# dns查询
+- /web &lt;URL链接&gt; [编码]	# 网页测试
+- /nmap &lt;目标名称&gt;	# 端口扫描
+- /nmap &lt;目标名称&gt; &lt;起始端口&gt; &lt;结束端口&gt;	# 端口扫描
+- /nmap &lt;目标名称&gt; &lt;端口&gt;	# 端口扫描
+- /doh &lt;域名&gt; [类型]	# HTTPS加密DNS查询
+- /gc &lt;目标名称&gt;	# 查墙
+</code>
+</pre>
 </details>
 1. 音乐
     - /music 点歌 \<name\>	# 点首歌听吧~
