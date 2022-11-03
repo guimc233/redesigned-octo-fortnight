@@ -42,21 +42,12 @@ title: 机器人命令~
 4. 娱乐
     1. 由 [MuteGames](https://github.com/EvolvedGhost/MuteGames) 插件提供
         - (/)banMe	 # 自裁指令
-        
         - (/)banMe \<seconds\>	# 自裁指令
-        
 	    - (/)duel	 # 决斗指令
-        
         - (/)roulette	 # 俄罗斯轮盘指令
-        
-    2. 由 [AutoGroup](https://github.com/LaoLittle/AutoGroup) 插件提供
-    
 5. 图片生成
-
-    1. 由 (PatPat)[https://github.com/LaoLittle/PatPat] 插件提供
-
-       -  摸 + @目标  生成摸头Gif
-    
+    1. 由 [PatPat](https://github.com/LaoLittle/PatPat) 插件提供
+       - 摸 + @目标  生成摸头Gif
     2. 由 [DrawMeme](https://github.com/LaoLittle/DrawMeme) 插件提供
        - #ph: Pxxnhub生成器
            - #ph + 文字    (会自动截取一半)
@@ -65,9 +56,9 @@ title: 机器人命令~
               ![1643769063079-aa4083d8-5cc1-4ee9-ba76-558ec305bf2f-image.webp](https://repo.guimc.ltd/posts/2022/11/03/1643769063079-aa4083d8-5cc1-4ee9-ba76-558ec305bf2f-image.webp)
        - #bw: 灰白照生成器  #bw + 文字 + 图片（若没有图片则要求获取）
              ![1643899604099-22.webp](https://repo.guimc.ltd/posts/2022/11/03/1643899604099-22.webp)
-         - #5000兆 | #5k兆
-            - #5k兆 + 文字        (分词效果和Pxxnhub生成器一致)
-            - #5k兆 + 文字 + 文字
+       - #5000兆 | #5k兆
+          - #5k兆 + 文字        (分词效果和Pxxnhub生成器一致)
+          - #5k兆 + 文字 + 文字
               ![1645006169912-49.webp](https://repo.guimc.ltd/posts/2022/11/03/1645006169912-49.webp)
        - emoji 合成 
         - 发送任意两个emoji（不支持的emoji不会发送）
